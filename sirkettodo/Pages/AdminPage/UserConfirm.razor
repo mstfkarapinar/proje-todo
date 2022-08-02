@@ -1,0 +1,94 @@
+@page "/userconfirm"
+@inherits AdminUserConfirm
+
+@if (UserTable is null)
+{
+    <p><em>Loading... !</em></p>
+}
+else
+{
+    int j=0;
+    Boolean kontrol;
+    <table class="table">
+            <thead>
+                <tr class="header" style="border:1px solid black">
+                    <th >User_id</th>
+                    <th>Name</th>
+                    <th>Lastname</th>
+                    <th>Email</th>
+                    <th>Password</th>
+                    <th>Reg_Date</th>
+                    <th>Role</th>
+                    <th>Team</th>
+                    <th>ConfirmStat</th>
+                </tr>
+            </thead>
+        <tbody>
+        @foreach(var razorrole1 in RoleTable){
+           
+            @foreach(var item in UserTable)
+                {
+                    @if(razorrole1.role_id==item.role_id){
+            
+
+            
+            string kolonid="kolon"+razorrole1.role_id.ToString()+"";
+             j++;
+             string trid=j.ToString();
+            <tr id="@j" class="@kolonid">
+                <td>@item.user_id</td>
+                <td>@item.name</td>
+                <td>@item.lastname</td>
+                <td>@item.email</td>
+                <td>@item.password</td>
+                <td>@item.register_date</td>
+                <td><select @onchange="e => {ChangeRole(e,item.user_id,trid);}">
+                    <option selected value=@item.role_id>
+                        @foreach (var razorrole in RoleTable)
+                        {
+                            @if(razorrole.role_id==item.role_id)
+                                @razorrole.role_name
+                        }
+                    </option>
+                    @foreach (var razorrole in RoleTable)
+                    {
+                         @if(razorrole.role_id!=item.role_id)
+                         {
+                        <option value=@razorrole.role_id>@razorrole.role_name</option>
+                         }
+                    }
+                </select></td>
+
+                <td><select @onchange="e=> {ChangeTeam(e,item.user_id);}">
+                    <option selected value=@item.team_id>
+                        @foreach (var razorteam in TeamTable)
+                        {
+                            @if(razorteam.team_id==item.team_id)
+                                @razorteam.team_name
+                        }
+                    </option>
+                    @foreach (var razorteam in TeamTable)
+                    {  
+                         @if(razorteam.team_id!=item.team_id)
+                         {
+                        <option value=@razorteam.team_id>@razorteam.team_name</option>
+                         }
+                    }
+                </select></td>
+                @if(@item.confirmation_status==0)
+                {
+                kontrol=false;
+                }
+                else
+                {
+                kontrol=true;
+                }
+                <td><input type="checkbox" @onchange="eventArgs => { ChangeConfirmation(item.email, eventArgs.Value); }" checked="@kontrol" /></td>
+            </tr>
+                }
+                }
+        }
+        </tbody>
+    </table>
+}
+

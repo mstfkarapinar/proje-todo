@@ -1,0 +1,110 @@
+@page "/assigntask"
+@inherits AssignTaskCs
+@using static sirkettodo.Pages.UserData
+
+<p>@ResultMessage</p>
+<br/>
+<div id="navbutton">
+    <input type="button" value="Görev Ekle" @onclick="OpenAddTasks"/>
+    <input type="button" value="Görev Ata" @onclick="OpenAssignTask"/>
+</div>
+
+
+<div id="addtask">
+<select @onchange="e => { SetProjectID(e); }">
+@if(ProjectsTable is null)
+{
+<p>Loading..</p>
+}
+else
+{
+<option selected value="-1">Proje Seçiniz</option>
+@foreach (var razorproject in ProjectsTable)
+    {
+    <option value=@razorproject.project_id>@razorproject.project_name</option>
+    }
+}
+</select><br/>
+<label>Görev</label><br/>
+<textarea id="pctextarea" @bind="task_contents" @bind:event="oninput"></textarea>
+<br/>
+<input type="button" value="Görev Ekle" @onclick="AddTasks"/>
+</div>
+
+
+
+
+<div id="assigntask" @onchange="e => { SetTaskID(e); }">
+    <select @onchange="e => { SetProjectID(e); }">
+        @if(ProjectsTable is null)
+        {
+            <p>Loading..</p>
+        }
+        else
+        {
+            <option selected value="-1">Proje Seçiniz</option>
+            @foreach (var razorproject in ProjectsTable)
+            {
+                <option value=@razorproject.project_id>@razorproject.project_name</option>
+            }
+        }
+    </select>
+
+
+
+    @if(TasksTableTemp is null)
+    {
+        <p>Loading...</p>
+    }
+    else
+    {
+    Boolean kontrol;
+    <table id="tasksselect" class="table">
+            <thead>
+                <tr class="header" style="border:1px solid black">
+                    <th>Seç</th>
+                    <th>Görev</th>
+
+                </tr>
+            </thead>
+        <tbody>
+        @foreach(var razortasks in TasksTableTemp)
+            { 
+            string taskidstr=@razortasks.task_id.ToString();
+            <tr> 
+                @if(@razortasks.tasks_status==0)
+                {
+                kontrol=false;
+                }
+                else
+                {
+                kontrol=true;
+                }
+                <td><input type="checkbox" @onchange="eventArgs => { GetTaskID(taskidstr,eventArgs.Value); }" checked="@kontrol" /></td>
+                <td>@razortasks.task</td>
+            </tr>
+        }
+         </tbody>
+    </table>
+    }
+    
+
+
+    <select id="userselect"  @ref=RefMulSelect   @onchange=ChangedMulSelect multiple="@(true)"  >
+        @if(UserTable is null)
+        {
+            <p>Loading...</p>
+        }
+        else{
+        @foreach(var razoruser in UserTable)
+        {
+            @if(razoruser.team_id==UserData.Data.UserTeamData && razoruser.user_id!=UserData.Data.UserIDData)
+            {
+                string namelastname=@razoruser.name+" "+@razoruser.lastname;
+                <option value=@razoruser.user_id>@namelastname</option>
+            }
+        }
+        }
+    </select>
+    <input type="button" value="Görev Ata" @onclick="AddTaskAssignment"/>
+</div >

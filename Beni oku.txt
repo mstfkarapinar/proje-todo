@@ -1,0 +1,7 @@
+Admin 58kdp58@gmail.com
+Şifre mk123123
+Admin kullanıcıları onaylar,rol ve bölümlere atama yapar.
+
+Başkanlar proje oluşturur ve kendi ekibine görev verir
+
+Normal çalışanlar görevleri yaptıklarında işaretler.

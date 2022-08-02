@@ -1,0 +1,54 @@
+@page "/officer"
+@inherits OfficerCs
+<table class="table">
+    <thead>
+        <tr class="header" style="border:1px solid black">
+            <th>Mission ID</th>
+            <th>Project Name</th>
+            <th>Task</th>
+            <th>Stat</th>
+        </tr>
+    </thead>
+    <tbody>
+    @if(MissionTable is null)
+    {
+        <p>Loading..</p>
+    }
+    else
+    {
+    Boolean control;
+    @foreach(var razormtable in MissionTable){
+        @if(razormtable.user_id==UserData.Data.UserIDData)
+        {
+        <tr id="crprrow">
+            
+            <td>@razormtable.task_assignment_id</td>
+            @foreach(var task in TaskTable)
+            {
+                @if(razormtable.task_id==task.task_id)
+                {
+                    @foreach (var razorproje in ProjectsTable)
+                    {
+                        @if(task.project_id==razorproje.project_id)
+                        {
+                             <td>@razorproje.project_name</td>
+                        }
+                    }
+                    <td><textarea style="height:50px">@task.task</textarea></td>
+                }
+            }            
+            @if(@razormtable.mission_status==0)
+            {
+                control=false;
+            }
+            else
+            {
+                control=true;
+            }
+            <td><input type="checkbox" @onchange="eventArgs => { ChangeMissionStat(razormtable.task_assignment_id, eventArgs.Value); }" checked="@control" /></td>
+        </tr>
+        }
+    }
+    }
+    </tbody>
+</table>

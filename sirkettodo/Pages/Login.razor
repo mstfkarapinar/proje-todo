@@ -1,0 +1,14 @@
+@page "/login"
+
+
+<br/>
+<div id="login_elemanlari">
+<input type="email" @bind="email" @bind:event="oninput"  placeholder="Email" required><br/>
+<input type="password" @bind="password" @bind:event="oninput" id="input2" placeholder="Şifre" maxlength="8" required><br/>
+<input type="button" class="btn btn-warning" @onclick="LoginButton" value="Giriş Yap"> 
+<p>@callback</p>  
+</div>
+
+
+
+                    

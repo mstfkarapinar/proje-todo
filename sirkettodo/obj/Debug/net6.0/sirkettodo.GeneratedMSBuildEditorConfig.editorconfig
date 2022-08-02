@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = sirkettodo
+build_property.RootNamespace = sirkettodo
+build_property.ProjectDir = C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\P2390\Desktop\proje-todo-main\sirkettodo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/AdminPage/TeamCrud.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlXFRlYW1DcnVkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/AdminPage/UserConfirm.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5QYWdlXFVzZXJDb25maXJtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/LeaderPage/AssignTask.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZGVyUGFnZVxBc3NpZ25UYXNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/LeaderPage/CreateProject.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZGVyUGFnZVxDcmVhdGVQcm9qZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/OfficerPage/Officer.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZmaWNlclBhZ2VcT2ZmaWNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-8qr2rree4q
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y5kxo5p5v7
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/P2390/Desktop/proje-todo-main/sirkettodo/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

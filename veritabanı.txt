@@ -1,0 +1,86 @@
+
+create table role(role_id int identity(0,1) primary key,role_name nvarchar(50))
+
+insert into role values('Admin')
+insert into role values('Baskan')
+insert into role values('Genel')
+
+create table team(team_id int identity(0,1) primary key,team_name nvarchar(50))
+
+insert into team values('Atanmadı')
+
+
+
+create table users(user_id int identity(1,1) primary key,name nvarchar(max),
+lastname nvarchar(max),email nvarchar(max),password nvarchar(max),register_date nvarchar(50) default convert(varchar, getdate(), 113),
+role_id int references role(role_id) default 2,team_id int references team(team_id) default 0,confirmation_status int default 0)
+
+
+
+create table passwordchange(user_id int references users(kisi_id),code int)
+
+
+create table projects(project_id int identity(1,1) primary key,project_name nvarchar(50),project_contents text,
+team_id int references team(team_id),project_status int default 1,starting_date nvarchar(50) default 
+convert(varchar, getdate(), 4),end_date nvarchar(50))
+
+
+create table tasks(task_id int identity(1,1) primary key,project_id int references projects(project_id),tasks_status int,
+team_id int references team(team_id),task text)
+
+
+create table task_assignment(task_assignment_id int identity(1,1) primary key,team_id int references team(team_id),task_id int references tasks(task_id),mission_status int,
+user_id int references users(user_id))
+
+
+
+
+
+
+
+create table task_assignment(task_assignment_id int identity(1,1) primary key,project_id int references projects(project_id),task text,
+user_id int references users(user_id),team_id int references team(team_id))
+
+
+create procedure register @name nvarchar(max),@lastname nvarchar(max),
+@email nvarchar(max),@password nvarchar(max),@callback int=0 output
+as
+begin
+declare @control_email nvarchar(max)
+select @control_email=email from users where email=@email
+if @control_email=@email
+begin
+	set @callback=1
+end
+else
+begin
+	insert into users(name,lastname,email,password) values (@name,@lastname,@email,@password)
+	set @callback=2
+end
+end
+
+
+
+create procedure login @email nvarchar(max),@password nvarchar(max),@callback int=0 Output,@callback_role_id int=1 Output,@callback_team_id int=0 Output,@callback_user_id int=0 Output
+as
+begin
+declare @control_email nvarchar(max)=' ',@control_password nvarchar(max)=' ',@control_confirmation_status int=0,
+@get_role_id int=0,@get_team_id int=0,@get_user_id int=0
+select @control_email=email,@control_password=password,@control_confirmation_status=confirmation_status,
+@get_role_id=role_id,@get_team_id=team_id,@get_user_id=user_id from users where email=@email and password=@password
+if @control_email<>@email or @control_password<>@password
+begin
+	set @callback=1
+end
+else if @control_email=@email and @control_password=@password and @control_confirmation_status=0
+begin
+	set @callback=2
+end
+else if @control_email=@email and @control_password=@password and @control_confirmation_status=1
+begin
+	set @callback=3
+	set @callback_role_id=@get_role_id
+	set @callback_team_id=@get_team_id
+        set @callback_user_id=@get_user_id
+end
+end

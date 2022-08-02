@@ -1,0 +1,46 @@
+@page "/teamcrud"
+@inherits AdminTeamCrud
+
+
+    <div id="operation">
+    <select @onchange="e=> {OpenMenu(e);}">
+        <option Selected>İşlem Seç</option>
+        <option value="0">Takım Ekle</option>
+        <option value="1">Takım Güncelle</option>
+       @* <option value="2">Takım Sil</option>*@
+    </select>
+    <br/>
+    <input id="teamid" type="text" @bind="team_id" placeholder="Team ID"/>
+    <br/>
+    <input id="teamname" type="text" @bind="team_name" placeholder="Team Name"/>
+    <br/>
+    
+    <input id="teamname1" type="text" @bind="team_name" placeholder="Team Name"/>
+    <input id="updatebutton" type="button" @onclick="UpdateTeam" Value="Update Team"/>
+    <input id="addbutton" type="button" @onclick="AddTeam" Value="Add Team"/>
+    <input id="deletebutton" type="button" @onclick="SearchTeam" Value="Delete Team"/>
+    </div>
+    @if (TeamTable is null)
+    {
+        <p><em>Loading... !</em></p>
+    }
+    else
+    {
+        <table class="TeamTable">
+        <thead>
+            <tr class="header" style="border:1px solid black">
+                <th >Team ID</th>
+                <th>Team Name</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var razorteam in TeamTable)
+        {
+           <tr class="TeamRow">
+                <td>@razorteam.team_id</td>
+                <td>@razorteam.team_name</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    }

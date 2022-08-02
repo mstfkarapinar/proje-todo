@@ -1,0 +1,15 @@
+@page "/register"
+
+
+<br/>
+
+<div id="register_elemanlari">
+<input type="text" @bind="name" @bind:event="oninput" placeholder="İsim" required><br/>
+<input type="text" @bind="lastname" @bind:event="oninput" placeholder="Soyisim" required><br/>
+<input type="email" @bind="email" @bind:event="oninput"  placeholder="Email" required><br/>
+<input type="password" @bind="password" @bind:event="oninput" id="input2" placeholder="Şifre" maxlength="8" required><br/>
+<input type="button" class="btn btn-warning" @onclick="RegisterButton" value="Kayıt Ol"> 
+<p> Result :@callback</p>  
+</div>
+
+                    

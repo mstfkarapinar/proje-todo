@@ -1,0 +1,407 @@
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.json
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.json
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+F:\Todo Proje\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Todo Proje\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.json
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+G:\Todo Proje\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.json
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+E:\Todo Proje\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\appsettings.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\refint\sirkettodo.dll
+C:\Users\Slayer\Desktop\Todo Proje\sirket todo\obj\Debug\net6.0\sirkettodo.pdb
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\appsettings.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.staticwebassets.runtime.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.exe
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.deps.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.runtimeconfig.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\sirkettodo.pdb
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.AssemblyReference.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfoInputs.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.AssemblyInfo.cs
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CoreCompileInputs.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.RazorAssemblyInfo.cs
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\scopedcss\bundle\sirkettodo.styles.css
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\scopedcss\projectbundle\sirkettodo.bundle.scp.css
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.csproj.CopyComplete
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\refint\sirkettodo.dll
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.pdb
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\sirkettodo.genruntimeconfig.cache
+C:\Users\P2390\Desktop\proje-todo-main\sirkettodo\obj\Debug\net6.0\ref\sirkettodo.dll

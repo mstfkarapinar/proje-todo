@@ -1,0 +1,65 @@
+@page "/createproject"
+@inherits CreateProjectCs
+
+<div id="title">
+<label>Proje Adı</label>
+<br/>
+<label id="calendartitle">Bitiş Tarihi</label>
+<br/>
+<label>Proje İçeriği</label>
+</div>
+
+
+<div id="content">
+<input type="text" @bind="project_name" /><br/>
+<div id="calborder"><input id="calendar" type="date" @onchange="Sa" value="2022-12-30" style="border:none;"></div><br/>
+<textarea id="pctextarea" @bind="project_contents" ></textarea>
+
+
+</div>
+<br/>
+<input id="projectcreate" type="button" Value="Oluştur" @onclick="CreateProject">
+
+
+<div>
+<table class="table">
+    <thead>
+        <tr class="header" style="border:1px solid black">
+            <th >Proje ID</th>
+            <th>Adı</th>
+            <th>İçerik</th>
+            <th>Başlangıç</th>
+            <th>Bitiş</th>
+            <th>Durum</th>
+        </tr>
+    </thead>
+    <tbody>
+    @if(ProjectsTable is null)
+    {
+        <p>Loading..</p>
+    }
+    else
+    {
+    Boolean control;
+    @foreach(var razorproject in ProjectsTable){
+        <tr id="crprrow">
+            <td>@razorproject.project_id</td>
+            <td>@razorproject.project_name</td>
+            <td><textarea style="height:50px">@razorproject.project_contents</textarea></td>
+            <td>@razorproject.starting_date</td>
+            <td>@razorproject.end_date</td>
+            @if(@razorproject.project_status==0)
+            {
+                control=false;
+            }
+            else
+            {
+                control=true;
+            }
+            <td><input type="checkbox" @onchange="eventArgs => { ChangeProjectStat(razorproject.project_id, eventArgs.Value); }" checked="@control" /></td>
+        </tr>
+    }
+    }
+    </tbody>
+</table>
+</div>
